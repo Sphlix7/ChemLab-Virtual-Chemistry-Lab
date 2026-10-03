@@ -1,0 +1,6 @@
+{
+  "name": "ChemLab",
+  "description": "Modern interactive virtual chemistry lab and experiment learning app for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
